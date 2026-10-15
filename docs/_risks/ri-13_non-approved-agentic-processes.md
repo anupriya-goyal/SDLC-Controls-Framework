@@ -1,7 +1,6 @@
 ---
-
-## sequence: 13
-
+sequence: 13
+version: "0.1"
 title: Non-Approved Agentic Processes
 layout: risk
 doc-status: Draft
@@ -18,6 +17,7 @@ related_risks:
 - ri-8   # Unauthorised Change
 - ri-11  # Build Toolchain and Service Supply Chain Compromise
 - ri-12  # Business Reputation Risk from Non-Approved Software Version Releases
+---
 
 ## Summary
 
